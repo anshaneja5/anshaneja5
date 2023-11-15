@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshaneja5&label=Profile%20views&color=0e75b6&style=flat" alt="anshaneja5" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on **StudyNotion- An Edtech Platform**
 
 - 📫 How to reach me **anshanejaa@gmail.com**
 
