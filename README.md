@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Deep Neural Nets<br>💬 Ask me about: Web Dev, Machine Learning
+🌱 I’m currently learning: Transformers<br>💬 Ask me about: Web Dev, Machine Learning
 
 ## 🌐 Socials:
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
