@@ -60,16 +60,18 @@
 **Software Developer Intern** | *Dec 2025 – Present*
 
 ```yaml
-Impact:
-  - Prompt Optimization: "90% reduction in manual cycles (hours → minutes)"
-  - Pass Rate Improvement: "+25% across production LLM workflows (75% → 100%)"
-  - Meta-LLM System: "Automated feedback loop for 4 meeting types"
-  - Production Results: "2 scenarios at 100%, 2 at 97-98% pass rate"
-  
-Innovation:
-  - Built: "6-dimension evaluation framework with train/val/test splits"
-  - Created: "/add-scenario automation tool for non-technical users"
-  - Delivered: "End-to-end optimization workflows in minutes"
+– Engineered automated prompt optimization system reducing manual engineering cycles by 90%, achieving
++25% pass rate improvements through a meta-LLM feedback loop with regression validation.
+– Developed LLM evaluation framework using Promptfoo with 6-dimension scoring and train/validation/test
+splits to prevent overfitting across 4 meeting types.
+– Created /add-scenario tool enabling non-technical users to set up optimization workflows in minutes with full
+traceability.
+– Built multi-LLM Slack translation bot supporting Gemini and OpenAI with runtime provider switching, config
+inheritance, and AES-256-GCM encrypted key storage-serving 25+ languages.
+– Reduced translation latency by 50% using structured output APIs and optimized API costs via intelligent
+filters skipping unnecessary translations (emojis, URLs, abbreviations, code blocks).
+– Implemented full-stack Slack features using TypeScript, Slack Bolt SDK, PostgreSQL including
+auto-translation for edits, thread-based long message handling, and bilingual (EN/JP) i18n support.
 ```
 
 ### 💻 **Bachatt** | Gurgaon, India
